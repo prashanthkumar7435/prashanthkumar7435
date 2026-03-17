@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Java Full Stack @cvs Aetna<br>I'm looking to collabrate on Brands<br>I'm looking for help with software enthuistics<br>I'm currently learning Prompt Engineering, GenAI, AI Agents<br>Ask me about Career growth<br>Fun fact I'm a movie lover
+I'm currently working on Java Full Stack @cvs Aetna<br>I'm looking for help with software enthuistics<br>I'm currently learning Prompt Engineering, GenAI, AI Agents<br>Ask me about Career growth<br>Fun fact I'm a movie lover
 
 
 ## 🌐 Socials:
